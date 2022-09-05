@@ -1,0 +1,56 @@
+Q.1  =      System.out.println("Hello I am enjoying coding");
+
+Q.2  =      System.out.println("Hello\nI\nam\nenjoying\ncoding");
+
+Q.3  =        int a = 100;
+   
+              int b = 8;
+         
+              int c = 3;
+      
+              int ans = (a+b+c);
+     
+              System.out.println(ans);
+
+
+Q.4  =         int a = 100;
+       
+               int b = 40;
+      
+               int ans = (a-b);
+       
+               System.out.println(ans);
+
+
+Q.5  =        System.out.println("*****");
+
+              System.out.println("*****");
+      
+              System.out.println("*****");
+     
+              System.out.println("*****");
+       
+              System.out.println("*****");
+  
+              System.out.println("*****"); 
+
+Q.6  =       System.out.println("*  *\n*  *\n*  *\n*  *\n*  *\n****");
+
+Q.7  =        int n = 987653;
+ 
+              int ans = n%10;
+        
+ 
+              System.out.println(ans);
+
+Q.8  =        int m = 15;
+   
+              int n = 4;
+     
+              System.out.println(m+n);
+     
+              System.out.println(m-n);
+    
+              System.out.println(m*n);       
+
+
